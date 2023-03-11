@@ -1,0 +1,16 @@
+body{
+    background: #AC10CF;
+    color: #fff;
+}
+h1{
+    font-size: 70px;
+}
+p {
+    font-size: 25px;
+}
+a {
+    padding: 20px 50px;
+    background: #fff;
+    text-decoration: none;
+    color: rgb(0, 132, 255);
+}
